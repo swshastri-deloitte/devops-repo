@@ -8,5 +8,7 @@ https://docs.google.com/document/d/1o5hoIHLMLNlnZdPZ8YY5_MXBPtGc5FpgdkPRkel9T8I/
 Session-2
 https://docs.google.com/document/d/1uiIaLGE--pXvwo8C27Mief_IUULMi-bWOBHDKYXDyYw/preview
 
+Session-3
+https://docs.google.com/document/d/117tR8rl7Xb-q-m06AHGCrWuzsogC_427g9LP0E37Ztg/edit
 docker login -u swshastri
 
